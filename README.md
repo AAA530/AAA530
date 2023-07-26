@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with **[KasperTech](https://thekaspertech.com/)**
+- 🔭 I’m currently looking for an internship.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
