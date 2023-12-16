@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently looking for an internship.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m pursuing **Masters in Applied Computing** @Concordia University
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **dhairyapatelad@gmail.com**
+- 📫 How to reach me **dhairyapatelda@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and love to watch football.**
 
 ## 🚀 Languages and Tools:
 
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AAA530&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+[![Dhairya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AAA530&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
